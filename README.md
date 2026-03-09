@@ -1,2 +1,2 @@
-# Formula-One-app
-A Formula One mobile app that displays race schedules, driver statistics, team standings, and latest F1 updates.
+# Travel-App-ByAndroidStudio
+A Travel App developed using Android Studio is a mobile application designed to assist users in planning, booking, and managing their trips efficiently. 
